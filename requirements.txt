@@ -1,6 +1,5 @@
 absl-py==1.4.0
 access==1.1.9
-affine @ file:///home/conda/feedstock_root/build_artifacts/affine_1674245120525/work
 alabaster==0.7.13
 anyio==3.7.1
 argon2-cffi==21.3.0
@@ -20,27 +19,27 @@ beautifulsoup4==4.12.0
 binaryornot==0.4.4
 black==23.1.0
 bleach==6.0.0
-bokeh @ file:///C:/b/abs_d01xodyb9e/croot/bokeh_1684534031183/work
-Brotli @ file:///D:/bld/brotli-split_1666788538925/work
+bokeh 
+Brotli 
 cachetools==5.3.0
 cdsapi==0.6.1
 certifi==2022.12.7
 cffi==1.15.1
 cftime==1.6.2
 chardet==5.1.0
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
-click @ file:///D:/bld/click_1666798499870/work
+charset-normalizer 
+click 
 click-plugins==1.1.1
-cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1633637764473/work
-cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1674202310934/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+cligj 
+cloudpickle 
+colorama 
 comm==0.1.3
-contourpy @ file:///D:/bld/contourpy_1673633798610/work
+contourpy 
 cookiecutter==2.1.1
 cryptography==40.0.1
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
-cytoolz @ file:///D:/bld/cytoolz_1666829685547/work
-dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1683908660643/work
+cycler 
+cytoolz 
+dask 
 debugpy==1.6.6
 decorator==5.1.1
 defusedxml==0.7.1
@@ -59,9 +58,9 @@ flake8==6.0.0
 flatbuffers==23.3.3
 fonttools==4.39.2
 fqdn==1.5.1
-fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1683494881189/work
+fsspec
 gast==0.4.0
-geojson @ file:///home/conda/feedstock_root/build_artifacts/geojson_1676562884917/work
+geojson 
 geopandas==0.13.2
 giddy==2.3.4
 google-auth==2.16.3
@@ -69,12 +68,12 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.53.0
 h5py==3.8.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
-imagecodecs @ file:///D:/bld/imagecodecs_1679699829332/work
+idna 
+imagecodecs 
 imageio==2.27.0
 imagesize==1.4.1
 importlib-metadata==6.1.0
-importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1676919000169/work
+importlib-resources 
 inequality==1.0.0
 inflection==0.5.1
 intervaltree==3.1.0
@@ -88,7 +87,7 @@ jaraco.classes==3.2.3
 jax==0.4.7
 jedi==0.18.2
 jellyfish==0.11.0
-Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+Jinja2
 jinja2-time==0.2.0
 joblib==1.3.2
 json5==0.9.14
@@ -109,17 +108,17 @@ jupyterlab-widgets==3.0.8
 jupyterlab_server==2.24.0
 keras==2.12.0
 keyring==23.13.1
-kiwisolver @ file:///D:/bld/kiwisolver_1666805810106/work
+kiwisolver 
 lazy-object-proxy==1.9.0
 lazy_loader==0.2
 libclang==16.0.0
 libpysal==4.7.0
 llvmlite==0.39.1
-locket @ file:///home/conda/feedstock_root/build_artifacts/locket_1650660393415/work
+locket 
 mapclassify==2.6.0
 Markdown==3.4.3
 MarkupSafe==2.1.2
-matplotlib @ file:///D:/bld/matplotlib-suite_1678135709170/work
+matplotlib 
 matplotlib-inline==0.1.6
 mccabe==0.7.0
 mgwr==2.1.2
@@ -145,11 +144,11 @@ oauthlib==3.2.2
 opt-einsum==3.3.0
 overrides==7.4.0
 packaging==23.0
-pandas @ file:///D:/bld/pandas_1680107868422/work
+pandas 
 pandocfilters==1.5.0
 paramiko==3.1.0
 parso==0.8.3
-partd @ file:///home/conda/feedstock_root/build_artifacts/partd_1681246756246/work
+partd 
 pathspec==0.11.1
 patsy==0.5.3
 pexpect==4.8.0
@@ -159,7 +158,7 @@ pkgutil_resolve_name==1.3.10
 platformdirs==3.2.0
 pluggy==1.0.0
 pointpats==2.3.0
-pooch @ file:///home/conda/feedstock_root/build_artifacts/pooch_1679580333621/work
+pooch 
 prometheus-client==0.17.1
 prompt-toolkit==3.0.38
 protobuf==4.22.1
@@ -179,7 +178,7 @@ pylint==2.17.1
 pylint-venv==3.0.1
 pyls-spyder==0.4.0
 PyNaCl==1.5.0
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+pyparsing 
 pyproj==3.4.1
 PyQt5==5.15.9
 PyQt5-Qt5==5.15.2
@@ -190,8 +189,8 @@ pyreadstat==1.2.3
 pyrsistent==0.19.3
 pysal==23.7
 pysheds==0.3.3
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+PySocks 
+python-dateutil 
 python-json-logger==2.0.7
 python-lsp-black==1.2.1
 python-lsp-jsonrpc==1.0.0
@@ -199,11 +198,11 @@ python-lsp-server==1.7.1
 python-slugify==8.0.1
 pytoolconfig==1.2.5
 pytz==2023.2
-PyWavelets @ file:///D:/bld/pywavelets_1673082529577/work
+PyWavelets
 pywin32==306
 pywin32-ctypes==0.2.0
 pywinpty==2.0.11
-PyYAML @ file:///D:/bld/pyyaml_1666772539683/work
+PyYAML
 pyzmq==25.0.2
 QDarkStyle==3.0.3
 qstylizer==0.2.2
@@ -231,7 +230,7 @@ segregation==2.4.2
 Send2Trash==1.8.2
 shapely==2.0.1
 simplejson==3.19.1
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six
 sniffio==1.3.0
 snowballstemmer==2.2.0
 snuggs==1.4.7
@@ -275,13 +274,13 @@ tobler==0.9.0
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.7
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+toolz 
 tornado==6.2
 tqdm==4.66.0
 traitlets==5.9.0
 typing_extensions==4.5.0
 ujson==5.7.0
-unicodedata2 @ file:///D:/bld/unicodedata2_1667240053339/work
+unicodedata2 
 uri-template==1.3.0
 urllib3==1.26.15
 watchdog==3.0.0
@@ -292,9 +291,9 @@ websocket-client==1.6.1
 Werkzeug==2.2.3
 whatthepatch==1.0.4
 widgetsnbextension==4.0.8
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+win-inet-pton 
 wrapt==1.14.1
-xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1674166302925/work
-xyzservices @ file:///C:/b/abs_8bh3h2qh76/croot/xyzservices_1675159066824/work
+xarray 
+xyzservices 
 yapf==0.32.0
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
+zipp 
